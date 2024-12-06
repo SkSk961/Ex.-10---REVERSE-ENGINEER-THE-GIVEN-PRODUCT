@@ -31,11 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/1f716a32-6da2-41de-9909-11a2af352881)
+![image](https://github.com/user-attachments/assets/a2c8b20b-b39f-4786-888d-70dac22991ec)
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/a2c8b20b-b39f-4786-888d-70dac22991ec)
+![image](https://github.com/user-attachments/assets/1f716a32-6da2-41de-9909-11a2af352881)
 
 
 ### Name: G.SHARAN KUMAR
